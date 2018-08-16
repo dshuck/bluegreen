@@ -21,3 +21,5 @@ header('Content-Type: image/png');
 imagePNG($im);
 imagedestroy($im);
 ?>
+
+// I am adding a comment here.
